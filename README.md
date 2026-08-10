@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/Priyam-Patil/Java-DSA/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/Priyam-Patil/Java-DSA/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Priyam-Patil/Java-DSA/tree/master/0287-find-the-duplicate-number) |
+| [0876-middle-of-the-linked-list](https://github.com/Priyam-Patil/Java-DSA/tree/master/0876-middle-of-the-linked-list) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/Priyam-Patil/Java-DSA/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 ## Tree
 |  |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Priyam-Patil/Java-DSA/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Priyam-Patil/Java-DSA/tree/master/0143-reorder-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Priyam-Patil/Java-DSA/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Priyam-Patil/Java-DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
