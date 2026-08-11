@@ -1,55 +1,50 @@
 import java.util.*;
 
-// Question:
-// Design a stack that supports push, pop, top, and retrieving the minimum element in constant time.
-// Implement the MinStack class:
-// push(val) -> pushes value onto the stack
-// pop() -> removes the top element
-// top() -> returns the top element
-// getMin() -> returns the minimum element in the stack
-
 class MinStack {
+    static class pair {
+        int value;
+        int minvalue;
 
-    // Pair stores the actual value and the minimum value till that point
-    static class Pair {
-        int val;
-        int minimum;
-
-        Pair(int val, int minimum) {
-            this.val = val;
-            this.minimum = minimum;
+        public pair(int value, int minvalue) {
+            this.value = value;
+            this.minvalue = minvalue;
         }
     }
 
-    Stack<Pair> s;
+    Stack<pair> s;
 
     public MinStack() {
         s = new Stack<>();
     }
-    
+
     public void push(int value) {
         if (s.isEmpty()) {
-            // First element: value and minimum are same
-            s.push(new Pair(value, value));
+            // for 1st pair both same
+            s.push(new pair(value, value));
         } else {
-            // Store current value and minimum till now
-            int getMin = Math.min(value, s.peek().minimum);
-            s.push(new Pair(value, getMin));
+            int min = Math.min(value, s.peek().minvalue);
+            s.push(new pair(value, min));
         }
     }
-    
+
     public void pop() {
-        // Remove the top pair
         s.pop();
     }
-    
+
     public int top() {
-        // Return only the actual top value
-        return s.peek().val;
+       return s.peek().value;
     }
-    
+
     public int getMin() {
-        // Return the current minimum stored in the top pair
-        return s.peek().minimum;
+       return s.peek().minvalue;
     }
 }
+
+/**
+ * Your MinStack object will be instantiated and called as such:
+ * MinStack obj = new MinStack();
+ * obj.push(value);
+ * obj.pop();
+ * int param_3 = obj.top();
+ * int param_4 = obj.getMin();
+ */
