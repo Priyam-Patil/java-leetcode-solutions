@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Priyam-Patil/Java-DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Priyam-Patil/Java-DSA/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Priyam-Patil/Java-DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Priyam-Patil/Java-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Priyam-Patil/Java-DSA/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Priyam-Patil/Java-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Priyam-Patil/Java-DSA/tree/master/0165-compare-version-numbers) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Priyam-Patil/Java-DSA/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/Priyam-Patil/Java-DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Priyam-Patil/Java-DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Priyam-Patil/Java-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Priyam-Patil/Java-DSA/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/Priyam-Patil/Java-DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/Priyam-Patil/Java-DSA/tree/master/0229-majority-element-ii) |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Priyam-Patil/Java-DSA/tree/master/0061-rotate-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/Priyam-Patil/Java-DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Priyam-Patil/Java-DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Priyam-Patil/Java-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Priyam-Patil/Java-DSA/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Priyam-Patil/Java-DSA/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Priyam-Patil/Java-DSA/tree/master/0237-delete-node-in-a-linked-list) |
@@ -417,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Priyam-Patil/Java-DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Priyam-Patil/Java-DSA/tree/master/0142-linked-list-cycle-ii) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
