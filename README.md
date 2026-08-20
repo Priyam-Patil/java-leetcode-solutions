@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Priyam-Patil/Java-DSA/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Priyam-Patil/Java-DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0733-flood-fill](https://github.com/Priyam-Patil/Java-DSA/tree/master/0733-flood-fill) |
+| [0896-monotonic-array](https://github.com/Priyam-Patil/Java-DSA/tree/master/0896-monotonic-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Priyam-Patil/Java-DSA/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/Priyam-Patil/Java-DSA/tree/master/0994-rotting-oranges) |
 | [1200-minimum-absolute-difference](https://github.com/Priyam-Patil/Java-DSA/tree/master/1200-minimum-absolute-difference) |
