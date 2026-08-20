@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Priyam-Patil/Java-DSA/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Priyam-Patil/Java-DSA/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Priyam-Patil/Java-DSA/tree/master/0072-edit-distance) |
+| [0096-unique-binary-search-trees](https://github.com/Priyam-Patil/Java-DSA/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Priyam-Patil/Java-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Priyam-Patil/Java-DSA/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/Priyam-Patil/Java-DSA/tree/master/0300-longest-increasing-subsequence) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Priyam-Patil/Java-DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Priyam-Patil/Java-DSA/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/Priyam-Patil/Java-DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Priyam-Patil/Java-DSA/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Priyam-Patil/Java-DSA/tree/master/0102-binary-tree-level-order-traversal) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Priyam-Patil/Java-DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Priyam-Patil/Java-DSA/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/Priyam-Patil/Java-DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Priyam-Patil/Java-DSA/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Priyam-Patil/Java-DSA/tree/master/0102-binary-tree-level-order-traversal) |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Priyam-Patil/Java-DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Priyam-Patil/Java-DSA/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Priyam-Patil/Java-DSA/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/Priyam-Patil/Java-DSA/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/Priyam-Patil/Java-DSA/tree/master/0189-rotate-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Priyam-Patil/Java-DSA/tree/master/0973-k-closest-points-to-origin) |
 ## Memoization
@@ -452,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Priyam-Patil/Java-DSA/tree/master/0096-unique-binary-search-trees) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Priyam-Patil/Java-DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Knapsack Problem
 |  |
