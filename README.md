@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Priyam-Patil/Java-DSA/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/Priyam-Patil/Java-DSA/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/Priyam-Patil/Java-DSA/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/Priyam-Patil/Java-DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Priyam-Patil/Java-DSA/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/Priyam-Patil/Java-DSA/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/Priyam-Patil/Java-DSA/tree/master/0496-next-greater-element-i) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Priyam-Patil/Java-DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Priyam-Patil/Java-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Priyam-Patil/Java-DSA/tree/master/0152-maximum-product-subarray) |
+| [0300-longest-increasing-subsequence](https://github.com/Priyam-Patil/Java-DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Priyam-Patil/Java-DSA/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/Priyam-Patil/Java-DSA/tree/master/0435-non-overlapping-intervals) |
 | [0518-coin-change-ii](https://github.com/Priyam-Patil/Java-DSA/tree/master/0518-coin-change-ii) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Priyam-Patil/Java-DSA/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/Priyam-Patil/Java-DSA/tree/master/0300-longest-increasing-subsequence) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -454,4 +457,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/Priyam-Patil/Java-DSA/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Priyam-Patil/Java-DSA/tree/master/0518-coin-change-ii) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Priyam-Patil/Java-DSA/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
