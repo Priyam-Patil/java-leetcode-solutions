@@ -13,16 +13,13 @@
  *     }
  * }
  */
- import java.util.*;
 class Solution {
     public boolean isSameTree(TreeNode p, TreeNode q) {
-        if(p==null && q==null){
+        if (p == null && q == null) {
             return true;
-        }
-        if(p==null || q==null || p.val!=q.val){
+        } else if (p == null || q == null || p.val != q.val) {
             return false;
         }
-        return isSameTree(p.left,q.left)&& isSameTree(p.right,q.right);
-        // true-->left subtrees of both trees are same abd also right subtrees
+        return isSameTree(p.left, q.left) && isSameTree(p.right, q.right);
     }
 }
