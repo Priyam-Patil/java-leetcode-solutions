@@ -14,22 +14,21 @@
  * }
  */
 
- import java.util.*;
+//  Preorder-->root->left->right
 class Solution {
-    public List<Integer> preorderTraversal(TreeNode root) {
-List<Integer> list =new ArrayList<>();
-order(root,list);
-return list;
-        
-    }
-    public void order(TreeNode root,List<Integer> list){
-        if(root==null){
+    public void helper(TreeNode root, List<Integer> list) {
+        if (root == null) {
             return;
         }
         list.add(root.val);
-        order(root.left,list);
-        order(root.right,list);
+        helper(root.left, list);
+        helper(root.right, list);
 
+    }
 
+    public List<Integer> preorderTraversal(TreeNode root) {
+        List<Integer> list = new ArrayList<>();
+        helper(root, list);
+        return list;
     }
 }
