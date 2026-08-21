@@ -1,3 +1,4 @@
+
 /**
  * Definition for a binary tree node.
  * public class TreeNode {
@@ -13,36 +14,40 @@
  *     }
  * }
  */
-
 import java.util.*;
+
 class Solution {
     public List<List<Integer>> levelOrder(TreeNode root) {
-        List<List<Integer>> ans=new ArrayList<>();
-        if(root==null){
+       
+        List<List<Integer>> ans = new ArrayList<>();
+        List<Integer> list = new ArrayList<>();
+        Queue<TreeNode> q = new LinkedList<>();
+ if(root==null){
             return ans;
         }
-        Queue<TreeNode> q=new LinkedList<>();
 
         q.add(root);
-
-        while(!q.isEmpty()){
-            int size=q.size();
-            List<Integer> list=new ArrayList<>();
-
-            for(int i=0;i<size;i++){
-                TreeNode curr=q.remove();
-                list.add(curr.val);
-                if(curr.left!=null){
-                    q.add(curr.left);
-                }
-                if(curr.right!=null){
-                    q.add(curr.right);
+        q.add(null);
+        while (!q.isEmpty()) {
+            TreeNode curr = q.remove();
+            if (curr == null) {
+                ans.add(list);
+                list = new ArrayList<>();//so here empty list will be recreated for next level
+                if (q.isEmpty()) {
+                    break;
+                } else {
+                    q.add(null);
+                    continue;
                 }
             }
-            ans.add(list);
-            // for next loop list will be empty
-            // new ArrayList create new empty list
 
+            list.add(curr.val);
+            if (curr.left != null) {
+                q.add(curr.left);
+            }
+            if (curr.right != null) {
+                q.add(curr.right);
+            }
         }
         return ans;
     }
