@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Priyam-Patil/Java-DSA/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Priyam-Patil/Java-DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Priyam-Patil/Java-DSA/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Priyam-Patil/Java-DSA/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Priyam-Patil/Java-DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Priyam-Patil/Java-DSA/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Priyam-Patil/Java-DSA/tree/master/0073-set-matrix-zeroes) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Priyam-Patil/Java-DSA/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Priyam-Patil/Java-DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Priyam-Patil/Java-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0733-flood-fill](https://github.com/Priyam-Patil/Java-DSA/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Priyam-Patil/Java-DSA/tree/master/0994-rotting-oranges) |
@@ -515,4 +517,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Priyam-Patil/Java-DSA/tree/master/0560-subarray-sum-equals-k) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Priyam-Patil/Java-DSA/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
