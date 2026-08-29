@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/Priyam-Patil/Java-DSA/tree/master/0520-detect-capital) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Priyam-Patil/Java-DSA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/Priyam-Patil/Java-DSA/tree/master/1663-smallest-string-with-a-given-numeric-value) |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Priyam-Patil/Java-DSA/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Priyam-Patil/Java-DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Counting
 |  |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Priyam-Patil/Java-DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Priyam-Patil/Java-DSA/tree/master/0229-majority-element-ii) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Priyam-Patil/Java-DSA/tree/master/1221-split-a-string-in-balanced-strings) |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Priyam-Patil/Java-DSA/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 ## Two Pointers
 |  |
 | ------- |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Priyam-Patil/Java-DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Priyam-Patil/Java-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Priyam-Patil/Java-DSA/tree/master/0645-set-mismatch) |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Priyam-Patil/Java-DSA/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Priyam-Patil/Java-DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Math
 |  |
