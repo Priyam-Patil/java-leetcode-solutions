@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Priyam-Patil/Java-DSA/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Priyam-Patil/Java-DSA/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/Priyam-Patil/Java-DSA/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Priyam-Patil/Java-DSA/tree/master/0231-power-of-two) |
 | [0973-k-closest-points-to-origin](https://github.com/Priyam-Patil/Java-DSA/tree/master/0973-k-closest-points-to-origin) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Priyam-Patil/Java-DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Memoization
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Priyam-Patil/Java-DSA/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/Priyam-Patil/Java-DSA/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Priyam-Patil/Java-DSA/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Priyam-Patil/Java-DSA/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Priyam-Patil/Java-DSA/tree/master/0234-palindrome-linked-list) |
 ## Monotonic Stack
 |  |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Priyam-Patil/Java-DSA/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Priyam-Patil/Java-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/Priyam-Patil/Java-DSA/tree/master/0645-set-mismatch) |
 ## Database
