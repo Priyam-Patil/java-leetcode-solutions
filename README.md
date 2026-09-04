@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Priyam-Patil/Java-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Priyam-Patil/Java-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/Priyam-Patil/Java-DSA/tree/master/0152-maximum-product-subarray) |
+| [0164-maximum-gap](https://github.com/Priyam-Patil/Java-DSA/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Priyam-Patil/Java-DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Priyam-Patil/Java-DSA/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Priyam-Patil/Java-DSA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Priyam-Patil/Java-DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Priyam-Patil/Java-DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Priyam-Patil/Java-DSA/tree/master/0088-merge-sorted-array) |
+| [0164-maximum-gap](https://github.com/Priyam-Patil/Java-DSA/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Priyam-Patil/Java-DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Priyam-Patil/Java-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Priyam-Patil/Java-DSA/tree/master/0229-majority-element-ii) |
@@ -582,4 +584,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/Priyam-Patil/Java-DSA/tree/master/1051-height-checker) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Priyam-Patil/Java-DSA/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Priyam-Patil/Java-DSA/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Priyam-Patil/Java-DSA/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
