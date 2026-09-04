@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/Priyam-Patil/Java-DSA/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3219-minimum-cost-for-cutting-cake-ii](https://github.com/Priyam-Patil/Java-DSA/tree/master/3219-minimum-cost-for-cutting-cake-ii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Priyam-Patil/Java-DSA/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/Priyam-Patil/Java-DSA/tree/master/3903-smallest-stable-index-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -550,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Priyam-Patil/Java-DSA/tree/master/0560-subarray-sum-equals-k) |
+| [3903-smallest-stable-index-i](https://github.com/Priyam-Patil/Java-DSA/tree/master/3903-smallest-stable-index-i) |
 ## Simulation
 |  |
 | ------- |
