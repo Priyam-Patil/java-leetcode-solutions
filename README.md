@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/Priyam-Patil/Java-DSA/tree/master/0896-monotonic-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Priyam-Patil/Java-DSA/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/Priyam-Patil/Java-DSA/tree/master/0994-rotting-oranges) |
+| [1051-height-checker](https://github.com/Priyam-Patil/Java-DSA/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/Priyam-Patil/Java-DSA/tree/master/1200-minimum-absolute-difference) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Priyam-Patil/Java-DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/Priyam-Patil/Java-DSA/tree/master/3218-minimum-cost-for-cutting-cake-i) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Priyam-Patil/Java-DSA/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Priyam-Patil/Java-DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0973-k-closest-points-to-origin](https://github.com/Priyam-Patil/Java-DSA/tree/master/0973-k-closest-points-to-origin) |
+| [1051-height-checker](https://github.com/Priyam-Patil/Java-DSA/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/Priyam-Patil/Java-DSA/tree/master/1200-minimum-absolute-difference) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/Priyam-Patil/Java-DSA/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3219-minimum-cost-for-cutting-cake-ii](https://github.com/Priyam-Patil/Java-DSA/tree/master/3219-minimum-cost-for-cutting-cake-ii) |
@@ -572,4 +574,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Priyam-Patil/Java-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Priyam-Patil/Java-DSA/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Priyam-Patil/Java-DSA/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
