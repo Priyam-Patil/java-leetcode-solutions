@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Priyam-Patil/Java-DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Priyam-Patil/Java-DSA/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Priyam-Patil/Java-DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3498-reverse-degree-of-a-string](https://github.com/Priyam-Patil/Java-DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Counting
 |  |
 | ------- |
@@ -571,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Priyam-Patil/Java-DSA/tree/master/0054-spiral-matrix) |
+| [3498-reverse-degree-of-a-string](https://github.com/Priyam-Patil/Java-DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Quicksort
 |  |
 | ------- |
