@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Priyam-Patil/Java-DSA/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Priyam-Patil/Java-DSA/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/Priyam-Patil/Java-DSA/tree/master/0901-online-stock-span) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Priyam-Patil/Java-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Design
 |  |
 | ------- |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/Priyam-Patil/Java-DSA/tree/master/0520-detect-capital) |
 | [0917-reverse-only-letters](https://github.com/Priyam-Patil/Java-DSA/tree/master/0917-reverse-only-letters) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Priyam-Patil/Java-DSA/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Priyam-Patil/Java-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/Priyam-Patil/Java-DSA/tree/master/1663-smallest-string-with-a-given-numeric-value) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Priyam-Patil/Java-DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Priyam-Patil/Java-DSA/tree/master/1903-largest-odd-number-in-string) |
@@ -568,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Priyam-Patil/Java-DSA/tree/master/0022-generate-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Priyam-Patil/Java-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Prefix Sum
 |  |
 | ------- |
