@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Priyam-Patil/Java-DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Priyam-Patil/Java-DSA/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/Priyam-Patil/Java-DSA/tree/master/0435-non-overlapping-intervals) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Priyam-Patil/Java-DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0493-reverse-pairs](https://github.com/Priyam-Patil/Java-DSA/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Priyam-Patil/Java-DSA/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/Priyam-Patil/Java-DSA/tree/master/0518-coin-change-ii) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/Priyam-Patil/Java-DSA/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/Priyam-Patil/Java-DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Priyam-Patil/Java-DSA/tree/master/0231-power-of-two) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Priyam-Patil/Java-DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/Priyam-Patil/Java-DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1903-largest-odd-number-in-string](https://github.com/Priyam-Patil/Java-DSA/tree/master/1903-largest-odd-number-in-string) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Priyam-Patil/Java-DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
