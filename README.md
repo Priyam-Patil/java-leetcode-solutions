@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Priyam-Patil/Java-DSA/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/Priyam-Patil/Java-DSA/tree/master/0435-non-overlapping-intervals) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Priyam-Patil/Java-DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Priyam-Patil/Java-DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0493-reverse-pairs](https://github.com/Priyam-Patil/Java-DSA/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Priyam-Patil/Java-DSA/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/Priyam-Patil/Java-DSA/tree/master/0518-coin-change-ii) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Priyam-Patil/Java-DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Priyam-Patil/Java-DSA/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/Priyam-Patil/Java-DSA/tree/master/0435-non-overlapping-intervals) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Priyam-Patil/Java-DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0645-set-mismatch](https://github.com/Priyam-Patil/Java-DSA/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Priyam-Patil/Java-DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0973-k-closest-points-to-origin](https://github.com/Priyam-Patil/Java-DSA/tree/master/0973-k-closest-points-to-origin) |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Priyam-Patil/Java-DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Priyam-Patil/Java-DSA/tree/master/0231-power-of-two) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Priyam-Patil/Java-DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Priyam-Patil/Java-DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0973-k-closest-points-to-origin](https://github.com/Priyam-Patil/Java-DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1903-largest-odd-number-in-string](https://github.com/Priyam-Patil/Java-DSA/tree/master/1903-largest-odd-number-in-string) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Priyam-Patil/Java-DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
