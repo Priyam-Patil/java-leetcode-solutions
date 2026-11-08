@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Priyam-Patil/Java-DSA/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Priyam-Patil/Java-DSA/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/Priyam-Patil/Java-DSA/tree/master/0518-coin-change-ii) |
+| [0523-continuous-subarray-sum](https://github.com/Priyam-Patil/Java-DSA/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Priyam-Patil/Java-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Priyam-Patil/Java-DSA/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Priyam-Patil/Java-DSA/tree/master/0646-maximum-length-of-pair-chain) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Priyam-Patil/Java-DSA/tree/master/0242-valid-anagram) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Priyam-Patil/Java-DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Priyam-Patil/Java-DSA/tree/master/0496-next-greater-element-i) |
+| [0523-continuous-subarray-sum](https://github.com/Priyam-Patil/Java-DSA/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Priyam-Patil/Java-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Priyam-Patil/Java-DSA/tree/master/0645-set-mismatch) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Priyam-Patil/Java-DSA/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Priyam-Patil/Java-DSA/tree/master/0231-power-of-two) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Priyam-Patil/Java-DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Priyam-Patil/Java-DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0523-continuous-subarray-sum](https://github.com/Priyam-Patil/Java-DSA/tree/master/0523-continuous-subarray-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/Priyam-Patil/Java-DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1903-largest-odd-number-in-string](https://github.com/Priyam-Patil/Java-DSA/tree/master/1903-largest-odd-number-in-string) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Priyam-Patil/Java-DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -606,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/Priyam-Patil/Java-DSA/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Priyam-Patil/Java-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [3903-smallest-stable-index-i](https://github.com/Priyam-Patil/Java-DSA/tree/master/3903-smallest-stable-index-i) |
 ## Simulation
@@ -649,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Priyam-Patil/Java-DSA/tree/master/0164-maximum-gap) |
+| [0523-continuous-subarray-sum](https://github.com/Priyam-Patil/Java-DSA/tree/master/0523-continuous-subarray-sum) |
 ## Binary Indexed Tree
 |  |
 | ------- |
