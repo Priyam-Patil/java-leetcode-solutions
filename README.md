@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Priyam-Patil/Java-DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/Priyam-Patil/Java-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Priyam-Patil/Java-DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0303-range-sum-query-immutable](https://github.com/Priyam-Patil/Java-DSA/tree/master/0303-range-sum-query-immutable) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Priyam-Patil/Java-DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/Priyam-Patil/Java-DSA/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/Priyam-Patil/Java-DSA/tree/master/0933-number-of-recent-calls) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Priyam-Patil/Java-DSA/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/Priyam-Patil/Java-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Priyam-Patil/Java-DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0303-range-sum-query-immutable](https://github.com/Priyam-Patil/Java-DSA/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/Priyam-Patil/Java-DSA/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/Priyam-Patil/Java-DSA/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Priyam-Patil/Java-DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -610,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Priyam-Patil/Java-DSA/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/Priyam-Patil/Java-DSA/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Priyam-Patil/Java-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Priyam-Patil/Java-DSA/tree/master/0724-find-pivot-index) |
