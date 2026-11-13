@@ -632,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Priyam-Patil/Java-DSA/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Priyam-Patil/Java-DSA/tree/master/0075-sort-colors) |
 ## Z Algorithm
 |  |
 | ------- |
@@ -651,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bubble Sort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Priyam-Patil/Java-DSA/tree/master/0075-sort-colors) |
 | [1051-height-checker](https://github.com/Priyam-Patil/Java-DSA/tree/master/1051-height-checker) |
 ## Bucket Sort
 |  |
