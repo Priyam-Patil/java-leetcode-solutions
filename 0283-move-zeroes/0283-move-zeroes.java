@@ -7,6 +7,8 @@ class Solution {
                 // non-zero value found then swap
                 int temp = nums[right];
                 nums[right] = nums[left];
+                // If left < right, nums[left] is 0.
+                // If left == right, swapping with itself is safe.
                 nums[left] = temp;
                 left++;
                 // and right++ handled in the for-loop
