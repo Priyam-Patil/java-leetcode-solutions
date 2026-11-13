@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Priyam-Patil/Java-DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Priyam-Patil/Java-DSA/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/Priyam-Patil/Java-DSA/tree/master/0239-sliding-window-maximum) |
+| [0283-move-zeroes](https://github.com/Priyam-Patil/Java-DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Priyam-Patil/Java-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Priyam-Patil/Java-DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/Priyam-Patil/Java-DSA/tree/master/0303-range-sum-query-immutable) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Priyam-Patil/Java-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Priyam-Patil/Java-DSA/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Priyam-Patil/Java-DSA/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/Priyam-Patil/Java-DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Priyam-Patil/Java-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Priyam-Patil/Java-DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Priyam-Patil/Java-DSA/tree/master/0392-is-subsequence) |
