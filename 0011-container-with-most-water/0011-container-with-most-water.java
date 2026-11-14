@@ -1,21 +1,23 @@
-import java.util.*;
+// two pointer
 class Solution {
     public int maxArea(int[] height) {
-        int left=0;
-        int right=height.length-1;
-        int maxArea=0;
-        while(left<right){
-            int w=right-left;
-            int h=Math.min(height[left],height[right]);
-            int area=w*h;
-            maxArea=Math.max(maxArea,area);
+        int left = 0;
+        int right = height.length - 1;
+        int ans = 0;
 
-            if(height[left]<height[right]){
+        while (left < right) {
+            int W = right - left;
+            int H = Math.min(height[left], height[right]);
+            int Currarea = W * H;
+            ans = Math.max(ans, Currarea);
+
+            if (height[left] < height[right]) {
                 left++;
-            }else{
+            } else {
                 right--;
             }
+
         }
-        return maxArea;
+        return ans;
     }
 }
