@@ -691,4 +691,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Priyam-Patil/Java-DSA/tree/master/0493-reverse-pairs) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Priyam-Patil/Java-DSA/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
